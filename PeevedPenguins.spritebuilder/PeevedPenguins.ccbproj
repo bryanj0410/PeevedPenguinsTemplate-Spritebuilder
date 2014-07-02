@@ -65,7 +65,7 @@
 	<key>publishToZipFile</key>
 	<false/>
 	<key>resourceAutoScaleFactor</key>
-	<integer>2</integer>
+	<integer>4</integer>
 	<key>resourcePaths</key>
 	<array>
 		<dict>
@@ -80,6 +80,11 @@
 			<key>previewFolderHidden</key>
 			<true/>
 		</dict>
+		<key>Levels</key>
+		<dict>
+			<key>previewFolderHidden</key>
+			<false/>
+		</dict>
 		<key>PeevedPenguinsAssets</key>
 		<dict>
 			<key>isSmartSpriteSheet</key>
@@ -89,8 +94,6 @@
 		<dict/>
 		<key>animation</key>
 		<dict>
-			<key>isDirty</key>
-			<true/>
 			<key>isSmartSpriteSheet</key>
 			<true/>
 		</dict>
